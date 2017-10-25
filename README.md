@@ -3,7 +3,7 @@ This is the final project of the Full Stack Web Developer Nanodegree by udacity.
 
 <https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004>
 
-This code is in Python that allows fresh-tomatoes to create an HTML file for a movie trailer website!
+This code is in Python that allows fresh-tomatoes.py to create an HTML file for a movie trailer website!
 
 ## What's included
 Three files:
